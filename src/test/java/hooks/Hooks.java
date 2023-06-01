@@ -21,6 +21,6 @@ public class Hooks {
     @After
     public void tearDown(){
         testContext.getDriverManager().getWebDriver().manage().deleteAllCookies();
-      //  testContext.getDriverManager().closeDriver();
+        testContext.getDriverManager().closeDriver();
     }
 }

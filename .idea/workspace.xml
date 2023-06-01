@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bcb3db3-285f-4bc0-9e1e-0ac45db073a7" name="Changes" comment="Adding task to the git" />
+    <list default="true" id="7bcb3db3-285f-4bc0-9e1e-0ac45db073a7" name="Changes" comment="Some refactoring">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="de2a81de-250e-45c7-8dfc-69d130379d0d" />
+        <option name="url" value="https://github.com/VicolCristian/Route4Me.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -128,7 +138,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685654906486</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding task to the git">
+      <created>1685655071712</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685655071712</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Some refactoring">
+      <created>1685655560639</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685655560639</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +168,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding task to the git" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding task to the git" />
+    <MESSAGE value="Some refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some refactoring" />
   </component>
 </project>
